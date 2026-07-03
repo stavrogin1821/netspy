@@ -12,6 +12,7 @@
 git clone https://github.com/stavrogin1821/netspy.git
 cd netspy
 pip install scapy tqdm
+```
 
 
 ## Использование
